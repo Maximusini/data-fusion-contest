@@ -1,2 +1,5 @@
 *.parquet
 *.csv
+*.cbm
+*.tsv
+*.json
